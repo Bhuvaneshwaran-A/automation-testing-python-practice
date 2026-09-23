@@ -1,6 +1,11 @@
-# automation-testing-python-practice
+# HCL TESTING ACTIVITY 23/09/2026
 # Python Practice for Automation Testing
 
+**NAME : Bhuvaneshwaran A**
+
+**REGN0 : 212223060031**
+
+**DEPARTMENT: ECE**
 ## 📌 About
 
 This repository contains Python programming exercises practiced as part of **Automation Testing Training**.
@@ -120,22 +125,5 @@ These fundamentals can later be applied to **test automation scripts, test data 
 
 ---
 
-## 📁 Repository Structure
 
-```text
-automation-testing-python-practice/
-│
-├── README.md
-├── binary_divisible_by_5.py
-├── count_letters_digits.py
-└── factorial.py
-```
 
----
-
-## 👩‍💻 Author
-
-**Oviya P**
-B.E. Computer Science and Engineering (IoT)
-
-**Training:** Automation Testing
